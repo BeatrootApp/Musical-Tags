@@ -145,7 +145,8 @@ country-pop: Country pop
 country-rap: Country-rap
 country-rock: Country rock
 coupe-decale: Coupé-décalé
-cowboywestern-music: Cowboy/western music
+western: Western
+cowboy: Cowboy
 cowpunk: Cowpunk
 criolla: Criolla
 crossover-jazz: Crossover jazz
@@ -524,7 +525,7 @@ power-noise: Power noise
 power-pop: Power pop
 powerviolence: Powerviolence
 progressive: Progressive
-progressive-housetrance: Progressive house/trance
+progressive-housetrance: Progressive house
 progressive-bluegrass: Progressive bluegrass
 progressive-breaks: Progressive breaks
 progressive-country: Progressive country
@@ -541,7 +542,7 @@ psychedelic-pop: Psychedelic pop
 psychedelic-rock: Psychedelic rock
 psychedelic-trance: Psychedelic trance
 psychobilly: Psychobilly
-psychobillypunkabilly: Psychobilly/punkabilly
+punkabilly: Punkabilly
 psyprog: Psyprog
 punk-blues: Punk blues
 punk-jazz: Punk jazz
@@ -565,7 +566,7 @@ rave-music: Rave music
 reactionary-bluegrass: Reactionary bluegrass
 red-dirt: Red dirt
 reggae: Reggae
-reggae-espanolspanish-reggae: Reggae español/spanish reggae
+reggae-espanol: Reggae español
 reggae-fusion: Reggae fusion
 reggaeton: Reggaeton
 rhythm-and-blues: Rhythm and blues
