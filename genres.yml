@@ -1,6 +1,6 @@
 ---
-2-tone: 2 tone
 2-step: 2-step
+2-tone: 2 tone
 4-beat: 4-beat
 acid-breaks: Acid breaks
 acid-house: Acid house
@@ -13,6 +13,7 @@ adult-contemporary: Adult contemporary
 african-blues: African blues
 african-heavy-metal: African heavy metal
 african-hip-hop: African hip hop
+african: African
 afro-cuban-jazz: Afro-cuban jazz
 afrobeat: Afrobeat
 aggrotech: Aggrotech
@@ -21,10 +22,10 @@ alternative-dance: Alternative dance
 alternative-hip-hop: Alternative hip hop
 alternative-metal: Alternative metal
 alternative-rock: Alternative rock
-ambient: Ambient
 ambient-dub: Ambient dub
 ambient-house: Ambient house
 ambient-techno: Ambient techno
+ambient: Ambient
 american-folk-revival: American folk revival
 americana: Americana
 anarcho-punk: Anarcho punk
@@ -36,11 +37,13 @@ art-punk: Art punk
 art-rock: Art rock
 asian-american-jazz: Asian american jazz
 asian-underground: Asian underground
+asian: Asian
 atlanta-hip-hop: Atlanta hip hop
 australian-country-music: Australian country music
 austropop: Austropop
 avant-garde-hip-hop: Avant-garde hip hop
 avant-garde-jazz: Avant-garde jazz
+avant-garde: Avant Garde
 axe: Axé
 bachata: Bachata
 background-music: Background music
@@ -69,17 +72,19 @@ bluegrass: Bluegrass
 blues-country: Blues country
 blues-rock: Blues rock
 blues-shouter: Blues shouter
+blues: Blues
 bolero: Bolero
 bongo-flava: Bongo flava
-boogie: Boogie
 boogie-woogie: Boogie-woogie
+boogie: Boogie
 bossa-nova: Bossa nova
 bounce-music: Bounce music
 bouncy-house: Bouncy house
 bouncy-techno: Bouncy techno
 brazilian-rock: Brazilian rock
-breakbeat: Breakbeat
+brazilian: Brazilian
 breakbeat-hardcore: Breakbeat hardcore
+breakbeat: Breakbeat
 breakcore: Breakcore
 breakstep: Breakstep
 brega: Brega
@@ -92,13 +97,14 @@ broken-beat: Broken beat
 bubblegum-dance: Bubblegum dance
 bubblegum-pop: Bubblegum pop
 c-pop: C-pop
-cajun: Cajun
 cajun-fiddle-tunes: Cajun fiddle tunes
+cajun: Cajun
 calypso: Calypso
 canadian-blues: Canadian blues
 canterbury-scene: Canterbury scene
 cantopop: Cantopop
 cape-jazz: Cape jazz
+caribbean: Caribbean
 celtic-metal: Celtic metal
 celtic-music: Celtic music
 celtic-punk: Celtic punk
@@ -124,19 +130,20 @@ christian-metal: Christian metal
 christian-pop: Christian pop
 christian-punk: Christian punk
 christian-rock: Christian rock
-chutney: Chutney
 chutney-soca: Chutney soca
+chutney: Chutney
 classic-country: Classic country
 classic-female-blues: Classic female blues
 classic-trance: Classic trance
 classical-crossover: Classical crossover
 close-harmony: Close harmony
 coldwave: Coldwave
+comedy: Comedy
 compas: Compas
 computer-music: Computer music
 conscious-hip-hop: Conscious hip hop
-contemporary-r-b: Contemporary r&b
 contemporary-folk: Contemporary folk
+contemporary-r-b: Contemporary r&b
 continental-jazz: Continental jazz
 cool-jazz: Cool jazz
 cosmic-disco: Cosmic disco
@@ -144,8 +151,8 @@ country-blues: Country blues
 country-pop: Country pop
 country-rap: Country-rap
 country-rock: Country rock
+country: Country
 coupe-decale: Coupé-décalé
-western: Western
 cowboy: Cowboy
 cowpunk: Cowpunk
 criolla: Criolla
@@ -155,8 +162,8 @@ crunk: Crunk
 crunkcore: Crunkcore
 crust-punk: Crust punk
 crustgrind: Crustgrind
-cumbia: Cumbia
 cumbia-rap: Cumbia rap
+cumbia: Cumbia
 cybergrind: Cybergrind
 d-beat: D-beat
 dance-pop: Dance-pop
@@ -165,11 +172,11 @@ dance-rock: Dance-rock
 dancehall: Dancehall
 dangdut: Dangdut
 dansband-music: Dansband music
-dark-wave: Dark wave
 dark-ambient: Dark ambient
 dark-cabaret: Dark cabaret
 dark-electro: Dark electro
 dark-psytrance: Dark psytrance
+dark-wave: Dark wave
 darkcore: Darkcore
 darkside-jungle: Darkside jungle
 darkstep: Darkstep
@@ -185,9 +192,9 @@ detroit-blues: Detroit blues
 detroit-hip-hop: Detroit hip hop
 detroit-techno: Detroit techno
 digital-hardcore: Digital hardcore
-disco: Disco
 disco-house: Disco house
 disco-polo: Disco polo
+disco: Disco
 diva-house: Diva house
 dixieland: Dixieland
 djent: Djent
@@ -203,28 +210,31 @@ drone-music: Drone music
 drum-and-bass: Drum and bass
 drumfunk: Drumfunk
 drumstep: Drumstep
-dub: Dub
 dub-music: Dub music
+dub: Dub
 dubstep: Dubstep
 dubstyle: Dubstyle
 dubtronica: Dubtronica
 dunedin-sound: Dunedin sound
 dutch-house: Dutch house
+east-asian: East Asian
 east-coast-hip-hop: East coast hip hop
+easy-listening: Easy listening
 electric-blues: Electric blues
-electro: Electro
 electro-backbeat: Electro backbeat
-electro-house: Electro house
-electro-music: Electro music
 electro-grime: Electro-grime
+electro-house: Electro house
 electro-industrial: Electro-industrial
-electroacoustic: Electroacoustic
+electro-music: Electro music
+electro: Electro
 electroacoustic-improvisation: Electroacoustic improvisation
+electroacoustic: Electroacoustic
 electroclash: Electroclash
 electronic-art-music: Electronic art music
 electronic-body-music: Electronic body music
 electronic-dance-music: Electronic dance music
 electronic-rock: Electronic rock
+electronic: Electronic
 electronica: Electronica
 electronicore: Electronicore
 electropop: Electropop
@@ -253,6 +263,7 @@ folk-metal: Folk metal
 folk-pop: Folk pop
 folk-punk: Folk punk
 folk-rock: Folk rock
+folk: Folk
 folktronica: Folktronica
 forro: Forró
 franco-country: Franco-country
@@ -271,11 +282,11 @@ frevo: Frevo
 fuji-music: Fuji music
 full-on: Full on
 funeral-doom: Funeral doom
-funk: Funk
 funk-carioca: Funk carioca
 funk-metal: Funk metal
-funky: Funky
+funk: Funk
 funky-house: Funky house
+funky: Funky
 furniture-music: Furniture music
 futurepop: Futurepop
 g-funk: G-funk
@@ -306,15 +317,15 @@ gulf-and-western: Gulf and western
 gypsy-jazz: Gypsy jazz
 gypsy-punk: Gypsy punk
 happy-hardcore: Happy hardcore
-hard-nrg: Hard nrg
 hard-bop: Hard bop
 hard-dance: Hard dance
+hard-nrg: Hard nrg
 hard-rock: Hard rock
 hard-trance: Hard trance
 hardbag: Hardbag
-hardcore: Hardcore
 hardcore-hip-hop: Hardcore hip hop
 hardcore-punk: Hardcore punk
+hardcore: Hardcore
 hardstep: Hardstep
 hardstyle: Hardstyle
 hardtechno: Hardtechno
@@ -324,11 +335,12 @@ hi-nrg: Hi-nrg
 highlife: Highlife
 hill-country-blues: Hill country blues
 hip-hop-soul: Hip hop soul
+hip-hop: Hip hop
 hip-house: Hip house
 hip-pop: Hip pop
 hiplife: Hiplife
-hokum: Hokum
 hokum-blues: Hokum blues
+hokum: Hokum
 hong-kong-english-pop: Hong kong english pop
 honky-tonk: Honky tonk
 horror-punk: Horror punk
@@ -346,11 +358,11 @@ indie-folk: Indie folk
 indie-pop: Indie pop
 indie-rock: Indie rock
 indietronica: Indietronica
-industrial: Industrial
 industrial-folk: Industrial folk
 industrial-hip-hop: Industrial hip hop
 industrial-metal: Industrial metal
 industrial-rock: Industrial rock
+industrial: Industrial
 instrumental-country: Instrumental country
 instrumental-hip-hop: Instrumental hip hop
 intelligent-drum-and-bass: Intelligent drum and bass
@@ -364,11 +376,12 @@ j-rock: J-rock
 jangle-pop: Jangle pop
 japanoise: Japanoise
 jazz-blues: Jazz blues
+jazz-funk: Jazz-funk
 jazz-fusion: Jazz fusion
 jazz-pop: Jazz pop
 jazz-rap: Jazz rap
 jazz-rock: Jazz rock
-jazz-funk: Jazz-funk
+jazz: Jazz
 jerkin: Jerkin'
 jit: Jit
 juju: Jùjú
@@ -396,6 +409,7 @@ latin-ballad: Latin ballad
 latin-house: Latin house
 latin-jazz: Latin jazz
 latin-pop: Latin pop
+latin: Latin
 lavani: Lavani
 levenslied: Levenslied
 liquid-funk: Liquid funk
@@ -443,8 +457,8 @@ miami-bass: Miami bass
 microhouse: Microhouse
 middle-of-the-road: Middle of the road
 midwest-hip-hop: Midwest hip hop
-minimal: Minimal
 minimal-house: Minimal house
+minimal: Minimal
 modal-jazz: Modal jazz
 moombahton: Moombahton
 morlam: Morlam
@@ -457,44 +471,44 @@ musique-concrete: Musique concrète
 nagoya-kei: Nagoya kei
 nashville-sound: Nashville sound
 nederpop: Nederpop
-neo-soul: Neo soul
 neo-bop-jazz: Neo-bop jazz
 neo-psychedelia: Neo-psychedelia
+neo-soul: Neo soul
 neo-swing: Neo-swing
 neofolk: Neofolk
 neotraditional-country: Neotraditional country
 nerdcore: Nerdcore
 neue-deutsche-harte: Neue deutsche härte
 neurofunk: Neurofunk
+new-age-music: New-age music
 new-beat: New beat
-new-jersey-hip-hop: New jersey hip hop
-new-romanticism: New romanticism
 new-jack-swing: New jack swing
+new-jersey-hip-hop: New jersey hip hop
 new-prog: New prog
 new-rave: New rave
+new-romanticism: New romanticism
 new-school-hip-hop: New school hip hop
 new-wave: New wave
-new-age-music: New-age music
 nintendocore: Nintendocore
 no-wave: No wave
-noise: Noise
 noise-pop: Noise pop
 noise-rock: Noise rock
+noise: Noise
 noisegrind: Noisegrind
 nortec: Nortec
 nortena: Norteña
 northern-soul: Northern soul
 novelty-ragtime: Novelty ragtime
+nu-disco: Nu-disco
 nu-jazz: Nu jazz
 nu-metal: Nu metal
 nu-skool-breaks: Nu skool breaks
-nu-disco: Nu-disco
 old-school-hip-hop: Old school hip hop
 oldschool-jungle: Oldschool jungle
 onkyokei: Onkyokei
 operatic-pop: Operatic pop
-orchestral-uplifting: Orchestral uplifting
 orchestral-jazz: Orchestral jazz
+orchestral-uplifting: Orchestral uplifting
 original-pilipino-music: Original pilipino music
 outlaw-country: Outlaw country
 p-funk: P-funk
@@ -510,48 +524,50 @@ pop-rap: Pop rap
 pop-rock: Pop rock
 pop-soul: Pop soul
 pop-sunda: Pop sunda
-post-britpop: Post-britpop
+pop: Pop
 post-bop: Post-bop
+post-britpop: Post-britpop
 post-disco: Post-disco
 post-grunge: Post-grunge
 post-hardcore: Post-hardcore
 post-metal: Post-metal
-post-punk: Post-punk
 post-punk-revival: Post-punk revival
+post-punk: Post-punk
 post-rock: Post-rock
 power-electronics: Power electronics
 power-metal: Power metal
 power-noise: Power noise
 power-pop: Power pop
 powerviolence: Powerviolence
-progressive: Progressive
-progressive-housetrance: Progressive house
 progressive-bluegrass: Progressive bluegrass
 progressive-breaks: Progressive breaks
 progressive-country: Progressive country
 progressive-drum---bass: Progressive drum & bass
 progressive-folk: Progressive folk
 progressive-house: Progressive house
+progressive-housetrance: Progressive house
 progressive-metal: Progressive metal
 progressive-pop: Progressive pop
 progressive-rock: Progressive rock
 progressive-techno: Progressive techno
+progressive: Progressive
 psybreaks: Psybreaks
 psychedelic-folk: Psychedelic folk
 psychedelic-pop: Psychedelic pop
 psychedelic-rock: Psychedelic rock
 psychedelic-trance: Psychedelic trance
 psychobilly: Psychobilly
-punkabilly: Punkabilly
 psyprog: Psyprog
 punk-blues: Punk blues
 punk-jazz: Punk jazz
 punk-rock: Punk rock
-punta: Punta
+punkabilly: Punkabilly
 punta-rock: Punta rock
+punta: Punta
+r-b: R&b
 raga-rock: Raga rock
-ragga: Ragga
 ragga-jungle: Ragga-jungle
+ragga: Ragga
 raggacore: Raggacore
 ragini: Ragini
 ragtime: Ragtime
@@ -565,14 +581,15 @@ rasin: Rasin
 rave-music: Rave music
 reactionary-bluegrass: Reactionary bluegrass
 red-dirt: Red dirt
-reggae: Reggae
 reggae-espanol: Reggae español
 reggae-fusion: Reggae fusion
+reggae: Reggae
 reggaeton: Reggaeton
 rhythm-and-blues: Rhythm and blues
 riot-grrrl: Riot grrrl
 rock-and-roll: Rock and roll
 rock-in-opposition: Rock in opposition
+rock: Rock
 rockabilly: Rockabilly
 rocksteady: Rocksteady
 rumba: Rumba
@@ -580,8 +597,8 @@ russian-pop: Russian pop
 sadcore: Sadcore
 sakara: Sakara
 salsa: Salsa
-samba: Samba
 samba-rock: Samba rock
+samba: Samba
 sambass: Sambass
 sawt: Sawt
 schlager: Schlager
@@ -593,9 +610,9 @@ semba: Semba
 sertanejo: Sertanejo
 shibuya-kei: Shibuya-kei
 shoegaze: Shoegaze
-ska: Ska
 ska-jazz: Ska jazz
 ska-punk: Ska punk
+ska: Ska
 skate-punk: Skate punk
 skiffle: Skiffle
 skweee: Skweee
@@ -609,11 +626,12 @@ son: Son
 songo-salsa: Songo-salsa
 sophisti-pop: Sophisti-pop
 soukous: Soukous
-soul: Soul
 soul-blues: Soul blues
 soul-jazz: Soul jazz
+soul: Soul
 sound-art: Sound art
 soundscape-composition: Soundscape composition
+south-asian: South Asian
 southern-hip-hop: Southern hip hop
 southern-rock: Southern rock
 southern-soul: Southern soul
@@ -637,8 +655,8 @@ suomisaundi: Suomisaundi
 surf-pop: Surf pop
 surf-rock: Surf rock
 swamp-blues: Swamp blues
-swing: Swing
 swing-house: Swing house
+swing: Swing
 symphonic-metal: Symphonic metal
 synthcore: Synthcore
 synthpop: Synthpop
@@ -649,9 +667,9 @@ tape-music: Tape music
 tech-house: Tech house
 tech-trance: Tech trance
 technical-death-metal: Technical death metal
-techno: Techno
 techno-dnb: Techno-dnb
 techno-folk: Techno-folk
+techno: Techno
 technopop: Technopop
 techstep: Techstep
 tecno-brega: Tecno brega
@@ -686,10 +704,10 @@ twoubadou: Twoubadou
 uk-garage: Uk garage
 uk-hard-house: Uk hard house
 uk-hardcore: Uk hardcore
-us-garage: Us garage
 underground-hip-hop: Underground hip hop
 uplifting-trance: Uplifting trance
 urban-pasifika: Urban pasifika
+us-garage: Us garage
 v-pop: V-pop
 video-game-music: Video game music
 viking-metal: Viking metal
@@ -702,12 +720,13 @@ west-coast-blues: West coast blues
 west-coast-hip-hop: West coast hip hop
 west-coast-jazz: West coast jazz
 western-swing: Western swing
+western: Western
 witch-house: Witch house
 wonky-pop: Wonky pop
 world-fusion: World fusion
 worldbeat: Worldbeat
 yorkshire-bleeps-and-bass: Yorkshire bleeps and bass
 zouglou: Zouglou
-zouk: Zouk
 zouk-lambada: Zouk-lambada
+zouk: Zouk
 zydeco: Zydeco
