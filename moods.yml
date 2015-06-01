@@ -4,10 +4,10 @@ aggressive: Aggressive
 agreeable: Agreeable
 airy: Airy
 ambitious: Ambitious
-amiablegood-natured: Amiable/good-natured
+good-natured: Good natured
 angry: Angry
 angst-ridden: Angst-ridden
-anguisheddistraught: Anguished/distraught
+distraught: Distraught
 angular: Angular
 animated: Animated
 apocalyptic: Apocalyptic
@@ -29,7 +29,8 @@ bravado: Bravado
 bright: Bright
 brittle: Brittle
 brooding: Brooding
-calmpeaceful: Calm/peaceful
+calm: Calm
+peaceful: Peaceful
 campy: Campy
 capricious: Capricious
 carefree: Carefree
@@ -49,7 +50,8 @@ confident: Confident
 confrontational: Confrontational
 cosmopolitan: Cosmopolitan
 crunchy: Crunchy
-cynicalsarcastic: Cynical/sarcastic
+cynical: Cynical
+sarcastic: Sarcastic
 dark: Dark
 declamatory: Declamatory
 defiant: Defiant
@@ -59,7 +61,8 @@ desperate: Desperate
 detached: Detached
 devotional: Devotional
 difficult: Difficult
-dignifiednoble: Dignified/noble
+dignified: Dignified
+noble: Noble
 dramatic: Dramatic
 dreamy: Dreamy
 driving: Driving
@@ -85,7 +88,8 @@ exotic: Exotic
 explosive: Explosive
 extroverted: Extroverted
 exuberant: Exuberant
-fantasticfantasy-like: Fantastic/fantasy-like
+fantastic: Fantastic
+fantasy-like: Fantasy-like
 feral: Feral
 feverish: Feverish
 fierce: Fierce
@@ -128,7 +132,8 @@ jovial: Jovial
 joyous: Joyous
 kinetic: Kinetic
 knotty: Knotty
-laid-backmellow: Laid-back/mellow
+laid-back: Laid-back
+mellow: Mellow
 languid: Languid
 lazy: Lazy
 light: Light
@@ -160,7 +165,8 @@ naive: Naive
 narcotic: Narcotic
 narrative: Narrative
 negative: Negative
-nervousjittery: Nervous/jittery
+nervous: Nervous
+jittery: Jittery
 nihilistic: Nihilistic
 nocturnal: Nocturnal
 nostalgic: Nostalgic
@@ -191,7 +197,7 @@ quirky: Quirky
 rambunctious: Rambunctious
 ramshackle: Ramshackle
 raucous: Raucous
-reassuringconsoling: Reassuring/consoling
+reassuringconsoling: Reassuring
 rebellious: Rebellious
 reckless: Reckless
 refined: Refined
