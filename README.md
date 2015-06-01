@@ -1,5 +1,5 @@
 # Seed Tags
-A base set of tags for use across projects
+A base set of musical tags, for use across multiple projects
 
 We currently deal with 3 sets of tags: [Instruments](instruments.yml), [Genres](genres.yml) and [Moods](moods.yml).
 
