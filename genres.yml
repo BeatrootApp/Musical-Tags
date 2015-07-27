@@ -1,13 +1,10 @@
 ---
-'4': '4'
-'6': '6'
 2-step: 2-step
 2-tone: 2 tone
 4-beat: 4-beat
 a-indie: A Indie
 a-punk: A Punk
 a-revival: A Revival
-a: A
 ab-pop: Ab Pop
 abesk: Abesk
 accordion: Accordion
@@ -15,29 +12,15 @@ ace-rock: Ace Rock
 ach-music: Ach Music
 acid-breaks: Acid breaks
 acid-house: Acid House
-acid-house: Acid house
 acid-jazz: Acid jazz
 acid-rock: Acid rock
 acid-techno: Acid Techno
-acid-techno: Acid techno
 acid-trance: Acid trance
 ack-rock-steady: Ack Rock Steady
 ack-sludge: Ack Sludge
 ackgaze: Ackgaze
-acousmatic-music: Acousmatic music
 acousmatic: Acousmatic
 acoustic: Acoustic
-aditional-blues: Aditional Blues
-aditional-country: Aditional Country
-aditional-folk: Aditional Folk
-aditional-funk: Aditional Funk
-aditional-irish-folk: Aditional Irish Folk
-aditional-reggae: Aditional Reggae
-aditional-rock-n-roll: Aditional Rock 'n Roll
-aditional-rockabilly: Aditional Rockabilly
-aditional-ska: Aditional Ska
-aditional-soul: Aditional Soul
-aditional-swing: Aditional Swing
 adult-contemporary: Adult contemporary
 african-blues: African blues
 african-heavy-metal: African heavy metal
@@ -45,25 +28,17 @@ african-hip-hop: African hip hop
 african: African
 afro-cuban-jazz: Afro-cuban jazz
 afrobeat: Afrobeat
-age: " Age"
 aggrotech: Aggrotech
 ai-pop: Ai Pop
 aise: Aise
 aito: Aito
 alax: Alax
 alga: Alga
-alian-folk: Alian Folk
-alian-hip-hop: Alian Hip Hop
-alian-indie-pop: Alian Indie Pop
-alian-pop: Alian Pop
-alian-progressive-rock: Alian Progressive Rock
-alian-punk: Alian Punk
 alt: Alt
 alternative-country: Alternative country
 alternative-dance: Alternative dance
 alternative-hip-hop: Alternative hip hop
 alternative-metal: Alternative Metal
-alternative-metal: Alternative metal
 alternative-metalcore: Alternative Metalcore
 alternative-rock: Alternative rock
 am-rock: Am Rock
@@ -81,14 +56,6 @@ amp-pop: Amp Pop
 anarcho-punk: Anarcho punk
 ance-hop: Ance Hop
 angra: Angra
-anish-folk: Anish Folk
-anish-hip-hop: Anish Hip Hop
-anish-indie-pop: Anish Indie Pop
-anish-indie-rock: Anish Indie Rock
-anish-invasion: Anish Invasion
-anish-pop-rock: Anish Pop Rock
-anish-pop: Anish Pop
-anish-punk: Anish Punk
 anison: Anison
 ano-blues: Ano Blues
 ano-rock: Ano Rock
@@ -113,34 +80,6 @@ ash-rock: Ash Rock
 asian-american-jazz: Asian american jazz
 asian-underground: Asian underground
 asian: Asian
-ass-band: Ass Band
-assic-afrobeat: Assic Afrobeat
-assic-belgian-pop: Assic Belgian Pop
-assic-chinese-pop: Assic Chinese Pop
-assic-czech-pop: Assic Czech Pop
-assic-danish-pop: Assic Danish Pop
-assic-eurovision: Assic Eurovision
-assic-finnish-pop: Assic Finnish Pop
-assic-finnish-rock: Assic Finnish Rock
-assic-french-pop: Assic French Pop
-assic-funk-rock: Assic Funk Rock
-assic-garage-rock: Assic Garage Rock
-assic-italian-pop: Assic Italian Pop
-assic-norwegian-pop: Assic Norwegian Pop
-assic-peruvian-pop: Assic Peruvian Pop
-assic-polish-pop: Assic Polish Pop
-assic-psychedelic-rock: Assic Psychedelic Rock
-assic-rock: Assic Rock
-assic-russian-pop: Assic Russian Pop
-assic-russian-rock: Assic Russian Rock
-assic-schlager: Assic Schlager
-assic-swedish-pop: Assic Swedish Pop
-assic-turkish-pop: Assic Turkish Pop
-assic-venezuelan-pop: Assic Venezuelan Pop
-assical-organ: Assical Organ
-assical-period: Assical Period
-assical-piano: Assical Piano
-assical: Assical
 atlanta-hip-hop: Atlanta hip hop
 atory: Atory
 attle-indie: Attle Indie
@@ -153,14 +92,8 @@ avant-garde-jazz: Avant-garde jazz
 avant-garde: Avant Garde
 ave-wave: Ave Wave
 axe: Axé
-azilian-gospel: Azilian Gospel
-azilian-hip-hop: Azilian Hip Hop
-azilian-indie: Azilian Indie
-azilian-pop-music: Azilian Pop Music
-azilian-punk: Azilian Punk
 b-rock: B Rock
 b-techno: B Techno
-b: B
 bachata: Bachata
 background-music: Background music
 baggy: Baggy
@@ -203,7 +136,6 @@ bikutsi: Bikutsi
 bitpop: Bitpop
 black-death: Black Death
 black-metal: Black Metal
-black-metal: Black metal
 black-thrash: Black Thrash
 blaskapelle: Blaskapelle
 blue-eyed-soul: Blue-eyed soul
@@ -216,15 +148,12 @@ bm: Bm
 bolero: Bolero
 bongo-flava: Bongo flava
 boogie-woogie: Boogie Woogie
-boogie-woogie: Boogie-woogie
 boogie: Boogie
 bossa-nova-jazz: Bossa Nova Jazz
 bossa-nova: Bossa nova
-bounce-music: Bounce music
 bounce: Bounce
 bouncy-house: Bouncy House
-bouncy-house: Bouncy house
-bouncy-techno: Bouncy techno
+bouncy-techno: Bouncy Techno
 brass-ensemble: Brass Ensemble
 brazilian-rock: Brazilian rock
 brazilian: Brazilian
@@ -244,14 +173,10 @@ british-folk-revival: British folk revival
 britpop: Britpop
 broken-beat: Broken beat
 brostep: Brostep
-brutal-death-metal: Brutal Death Metal
-brutal-deathcore: Brutal Deathcore
-bstep-product: Bstep Product
 bstep: Bstep
 bubble-trance: Bubble Trance
 bubblegum-dance: Bubblegum Dance
-bubblegum-dance: Bubblegum dance
-bubblegum-pop: Bubblegum pop
+bubblegum-pop: Bubblegum Pop
 bum-rock: Bum Rock
 buquerque-indie: Buquerque Indie
 c-indie: C Indie
