@@ -22,7 +22,7 @@ acid-rock: Acid Rock
 acid-techno: Acid Techno
 acid-trance: Acid Trance
 acid: Acid
-acousmatic Acousmatic
+acousmatic: Acousmatic
 acoustic-ambient: Acoustic Ambient
 acoustic-guitar: Acoustic Guitar
 acoustic-rock: Acoustic Rock
@@ -85,7 +85,7 @@ atmospheric-metal: Atmospheric Metal
 atmospheric-rock: Atmospheric Rock
 atmospheric: Atmospheric
 aussie-rock: Aussie Rock
-australian-country Australian Country
+australian-country: Australian Country
 austropop: Austropop
 avant-garde-hip-hop: Avant Garde Hip Hop
 avant-garde-jazz: Avant Garde Jazz
@@ -95,7 +95,7 @@ avant-prog: Avant Prog
 avantjazz: Avantjazz
 axe: Axé
 bachata: Bachata
-background Background
+background: Background
 baggy: Baggy
 baila: Baila
 baithak-gana: Baithak Gana
@@ -112,10 +112,10 @@ bastard-pop: Bastard Pop
 batcave: Batcave
 battle-metal: Battle Metal
 baul: Baul
-beat Beat
+beat: Beat
 beatdown: Beatdown
 beats: Beats
-beautiful Beautiful
+beautiful: Beautiful
 bebop: Bebop
 benga: Benga
 berlin-school: Berlin School
@@ -145,7 +145,7 @@ boogie-woogie: Boogie Woogie
 boogie: Boogie
 bop: Bop
 bossa-nova: Bossa Nova
-bounce Bounce
+bounce: Bounce
 bouncy-house: Bouncy House
 bouncy-techno: Bouncy Techno
 boyband: Boyband
@@ -246,7 +246,7 @@ comedy-rock: Comedy Rock
 comedy: Comedy
 compas: Compas
 composer: Composer
-computer Computer
+computer: Computer
 conscious-hip-hop: Conscious Hip Hop
 contemporary-christian: Contemporary Christian
 contemporary-classical: Contemporary Classical
@@ -291,7 +291,7 @@ dance-rock: Dance Rock
 dance: Dance
 dancehall: Dancehall
 dangdut: Dangdut
-dansband Dansband
+dansband: Dansband
 dark-ambient: Dark Ambient
 dark-cabaret: Dark Cabaret
 dark-electro: Dark Electro
@@ -358,7 +358,7 @@ dreamy: Dreamy
 drift: Drift
 drill-n-bass: Drill N Bass
 drill: Drill
-drone Drone
+drone: Drone
 drone-doom: Drone Doom
 drone-metal: Drone Metal
 drone: Drone
@@ -669,7 +669,7 @@ italian-rock: Italian Rock
 italo-dance: Italo Dance
 italo-disco: Italo Disco
 italo-house: Italo House
-j J
+j: J
 j-hiphop: J Hiphop
 j-indie: J Indie
 j-indies: J Indies
@@ -862,7 +862,7 @@ nerd-rock: Nerd Rock
 nerdcore: Nerdcore
 neue-deutsche-harte: Neue Deutsche Härte
 neurofunk: Neurofunk
-new-age New Age
+new-age: New Age
 new-age-collection: New Age Collection
 new-age: New Age
 new-beat: New Beat
@@ -924,7 +924,7 @@ orchestral-jazz: Orchestral Jazz
 orchestral-uplifting: Orchestral Uplifting
 orchestral: Orchestral
 organic-ambient: Organic Ambient
-original-pilipino Original Pilipino
+original-pilipino: Original Pilipino
 oshare-kei: Oshare Kei
 outlaw-country: Outlaw Country
 p-funk: P Funk
@@ -1045,7 +1045,6 @@ rap: Rap
 rapcore: Rapcore
 rasin: Rasin
 rasta: Rasta
-rave Rave
 rave: Rave
 raw-black-metal: Raw Black Metal
 reactionary-bluegrass: Reactionary Bluegrass
@@ -1130,7 +1129,7 @@ slowcore: Slowcore
 sludge-metal: Sludge Metal
 sludge: Sludge
 smooth-jazz: Smooth Jazz
-snap Snap
+snap: Snap
 soca: Soca
 soft-rock: Soft Rock
 son: Son
@@ -1212,7 +1211,7 @@ synthpunk: Synthpunk
 taarab: Taarab
 taiwanese-pop: Taiwanese Pop
 tango: Tango
-tape Tape
+tape: Tape
 tech-house: Tech House
 tech-metal: Tech Metal
 tech-trance: Tech Trance
@@ -1245,12 +1244,12 @@ thrashcore: Thrashcore
 timba: Timba
 toytown-techno: Toytown Techno
 trad-jazz: Trad Jazz
-traditional-country Traditional Country
+traditional-country: Traditional Country
 traditional-country: Traditional Country
 traditional-doom-metal: Traditional Doom Metal
 traditional-doom: Traditional Doom
 traditional-metal: Traditional Metal
-traditional-pop Traditional Pop
+traditional-pop: Traditional Pop
 traditional: Traditional
 trance: Trance
 trap: Trap
@@ -1291,7 +1290,7 @@ urban-pasifika: Urban Pasifika
 urban: Urban
 us-garage: Us Garage
 v-pop: V Pop
-video-game Video Game
+video-game: Video Game
 video-game-remixes: Video Game Remixes
 video-game: Video Game
 video-games: Video Games
